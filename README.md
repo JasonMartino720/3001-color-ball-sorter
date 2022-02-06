@@ -12,6 +12,9 @@ A robust computer vision algorithm is used to increase data extraction accuracy.
 [![Demo Video](https://i.ibb.co/FgPscT3/RBE3001-Final-Poster.jpg)](https://youtu.be/mX2VU0o5paU)
 (Click me)
 
+# View Final Project Report
+For a more detailed overview of the engineering challenges we faced and the steps we took to solve them [click here](https://docs.google.com/document/d/1JyXDe3kS0x9jvmHUlWbNCs_eQIYWO2e-N3XBIlul7fQ/edit)
+
 ## Usage ##
 
 - Build and setup this [3-DOF arm](https://github.com/Hephaestus-Arm/HephaestusArm2)
